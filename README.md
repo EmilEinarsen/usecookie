@@ -19,4 +19,4 @@ For more information checkout the function _set_ at the dependancy [bjork_cookie
 Pull requests are welcome. For any considerable changes, please open an issue first to discuss what you would like to change.<br>
 
 ## Licence
-[MIT](https://github.com/EmilEinarsen/bjork_restrain/blob/master/LICENSE)
+[MIT](https://github.com/EmilEinarsen/bjork_useCookie/blob/master/LICENSE)
