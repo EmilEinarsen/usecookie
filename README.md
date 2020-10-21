@@ -1,16 +1,13 @@
 # What is this?
-
-An object containing four methods for managing cookies. The main methods set and get. And the secondary methods check and destroy.
-
-
+A React hook used for managing state and cookies simultaneously, effortlessly.
 ## Install
-Use npm to install bjork_cookies or copy the code manually form [github](https://github.com/EmilEinarsen/bjork_cookie).
+Use npm to install bjork_useCookie or copy the code manually form [github](https://github.com/EmilEinarsen/bjork_useCookie).
 ```bash
-> npm i bjork_cookies
+> npm i bjork_useCookie
 ```
 ## Usage
 Utilizes and, therefor, functions like Reacts **useState**. 
-The diffrence being that setState takes a second, optional, param _options_ that configures how the cookie is packaged. 
+The difference being that setState takes a second, optional, param _options_ that configures how the cookie is packaged. 
 For more information checkout the function _set_ at the dependancy [bjork_cookie](https://github.com/EmilEinarsen/bjork_cookie).
 ```js
 > import useCookie from 'bjork_usecookie'
